@@ -17,7 +17,9 @@ A lightweight chatbot that tells jokes based on user input. The project simulate
 - Arrays and randomization (Math.random())
 
 ## 📸 Screenshots
+
 ![Comedian Bot](./screenshots/comedian-bot.jpg)
+
 ![Work Result](./screenshots/comedian-bot-joke.jpg)
 
 ## 📁 Project Structure
